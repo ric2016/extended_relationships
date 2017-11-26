@@ -33,10 +33,10 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.10
+* Current version: 1.7.9.11
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'families_with_hooks' module. Requires the 'personal_facts_with_hooks' module. 
-* Download the zipped module, including all required dependencies, [here](https://cissee.de/extended_relationships/extended_relationships.1.7.9.10.zip).
+* Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>. See also [this webtrees forum thread](https://www.webtrees.net/index.php/en/forum/4-customising/31587-extended-relationships-module-feature-requests).
 * Issues also via <https://github.com/ric2016/extended_relationships/issues>
 
