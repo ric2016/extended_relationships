@@ -33,7 +33,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.11
+* Current version: 1.7.9.12
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'families_with_hooks' module. Requires the 'personal_facts_with_hooks' module. 
 * Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
@@ -57,6 +57,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * French translations provided by Michel Rivière.
+* Dutch translations provided by Frans Weber.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
