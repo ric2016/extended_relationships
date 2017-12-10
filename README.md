@@ -18,14 +18,14 @@ The project’s website is [cissee.de](https://cissee.de).
 
 ![ExtRel3](ExtRel3.PNG)
 
-*The module uses proper German relationship names, following [the German kinship system](https://de.wikipedia.org/wiki/Verwandtschaftsbeziehung#/media/File:European_kinship_system_de.svg) rather than using direct translations of [the system used in the English-speaking world](https://en.wikipedia.org/wiki/Family#/media/File:Relatives_Chart.svg): E.g. "Urgroßonkel 2. Grades" instead of "Cousin 3. Grades in aufsteigender Folge".
-*In the extended 'Families' tab, the relationship to the default individual is displayed, as well as prior relationships between married individuals. The latter are calculated relative to the date of the marriage (to avoid the trivial relationship husband/wife), which allows us to show e.g. that someone married his brother's wife's sister.
+* The module uses proper German relationship names, following [the German kinship system](https://de.wikipedia.org/wiki/Verwandtschaftsbeziehung#/media/File:European_kinship_system_de.svg) rather than using direct translations of [the system used in the English-speaking world](https://en.wikipedia.org/wiki/Family#/media/File:Relatives_Chart.svg): E.g. "Urgroßonkel 2. Grades" instead of "Cousin 3. Grades in aufsteigender Folge".
+* In the extended 'Families' tab, the relationship to the default individual is displayed, as well as prior relationships between married individuals. The latter are calculated relative to the date of the marriage (to avoid the trivial relationship husband/wife), which allows us to show e.g. that someone married his brother's wife's sister.
 
 ![ExtRel1](ExtRel1.PNG)
 
-*In the extended 'Facts and Events' tab, relationships to associated individuals are calculated similarly (relative to the date of the event).	
-*Most features are configurable via module administration.
-*The extended 'Facts and Events' tab, even when used standalone (without this module), fixes [Webtrees issue #1192](https://github.com/fisharebest/webtrees/issues/1192). When 'Events of close relatives' are activated, the inverse associations and relationships are also displayed:
+* In the extended 'Facts and Events' tab, relationships to associated individuals are calculated similarly (relative to the date of the event).	
+* Most features are configurable via module administration.
+* The extended 'Facts and Events' tab, even when used standalone (without this module), fixes [Webtrees issue #1192](https://github.com/fisharebest/webtrees/issues/1192). When 'Events of close relatives' are activated, the inverse associations and relationships are also displayed:
 
 ![FactsAndEventsExt1](FactsAndEventsExt1.PNG)
 
