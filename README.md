@@ -1,5 +1,5 @@
 
-# Webtrees Custom Module: Extended Relationships
+# Webtrees Custom Module: ⚶ Extended Relationships
 
 This [webtrees](https://www.webtrees.net/) custom module offers a replacement for the 'Relationships' chart, hooks into an extended 'Families' tab, and hooks into an extended 'Facts and Events' tab.
 The project’s website is [cissee.de](https://cissee.de).
@@ -35,7 +35,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.14
+* Current version: 1.7.9.15
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'families_with_hooks' module. Requires the 'personal_facts_with_hooks' module. 
 * Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
@@ -55,7 +55,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 ### License<a name="license"/>
 
 * **extended_relationships: a webtrees custom module**
-* Copyright (C) 2016 to 2017 Richard Cissée
+* Copyright (C) 2016 to 2018 Richard Cissée
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * French translations provided by Michel Rivière.
