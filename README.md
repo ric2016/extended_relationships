@@ -1,7 +1,7 @@
 
 # Webtrees Custom Module: ⚶ Extended Relationships
 
-This [webtrees](https://www.webtrees.net/) custom module offers a replacement for the 'Relationships' chart, hooks into an extended 'Families' tab, and hooks into an extended 'Facts and Events' tab.
+This [webtrees](https://www.webtrees.net/) custom module offers a replacement for the 'Relationships' chart, implements hooks of the extended 'Families' tab, and of the extended 'Facts and Events' tab.
 The project’s website is [cissee.de](https://cissee.de).
 
 ## Contents
@@ -35,16 +35,19 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.15
+* Current version: 1.7.9.16
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
-* Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). Requires the 'families_with_hooks' module. Requires the 'personal_facts_with_hooks' module. 
-* Download the zipped module, including all required dependencies, [here](https://cissee.de/vesta.latest.zip).
+* Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). 
+* Requires the 'vesta_common_lib' module.
+* Displays data via the 'families_with_hooks' module. 
+* Displays data via the 'personal_facts_with_hooks' module. 
+* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>. See also [this webtrees forum thread](https://www.webtrees.net/index.php/en/forum/4-customising/31587-extended-relationships-module-feature-requests).
 * Issues also via <https://github.com/ric2016/extended_relationships/issues>
 
 ### Installation<a name="installation"/>
 
-* Unzip the files and copy them to the modules_v3 folder of your webtrees installation. All required modules are included in the zip file. It's safe to overwrite the respective directories if they already exist (they are bundled with other custom modules as well), as long as other custom models using these dependencies are also upgraded to their respective latest versions.
+* Unzip the files and copy them to the modules_v3 folder of your webtrees installation. All related modules are included in the zip file. It's safe to overwrite the respective directories if they already exist (they are bundled with other custom modules as well), as long as other custom models using these dependencies are also upgraded to their respective latest versions.
 * Enable the extended 'Families' module via Control Panel -> Modules -> Module Administration -> Families.
 * Enable the extended 'Facts and Events' module via Control Panel -> Modules -> Module Administration -> Facts and Events.
 * Enable the main module via Control Panel -> Modules -> Module Administration -> Extended Relationships. After that, you may configure several options.
