@@ -4,6 +4,8 @@
 This [webtrees](https://www.webtrees.net/) custom module offers a replacement for the 'Relationships' chart, implements hooks of the extended 'Families' tab, and of the extended 'Facts and Events' tab.
 The project’s website is [cissee.de](https://cissee.de).
 
+This is a webtrees 1.x module - It cannot be used with webtrees 2.x. For its webtrees 2.x counterpart, see [here](https://github.com/vesta-webtrees-2-custom-modules/vesta_extended_relationships).
+
 ## Contents
 
 * [Features](#features)
@@ -35,15 +37,15 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.10.1
-* Based on and tested with webtrees 1.7.10, may also work with older 1.7.x versions.
+* Current version: 1.7.13.1
+* Based on and tested with webtrees 1.7.13, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). 
 * Requires the 'vesta_common_lib' module.
 * Displays data via the 'families_with_hooks' module. 
 * Displays data via the 'personal_facts_with_hooks' module. 
 * Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>. See also [this webtrees forum thread](https://www.webtrees.net/index.php/en/forum/4-customising/31587-extended-relationships-module-feature-requests).
-* Issues also via <https://github.com/ric2016/extended_relationships/issues>
+* Issues also via <https://github.com/ric2016/extended_relationships/issues>. Note that new features will only be implemented in the 2.x versions though.
 
 ### Installation<a name="installation"/>
 
@@ -58,7 +60,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 ### License<a name="license"/>
 
 * **extended_relationships: a webtrees custom module**
-* Copyright (C) 2016 to 2018 Richard Cissée
+* Copyright (C) 2016 to 2019 Richard Cissée
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * French translations provided by Michel Rivière.
