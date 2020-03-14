@@ -37,15 +37,15 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.13.1
-* Based on and tested with webtrees 1.7.13, may also work with older 1.7.x versions.
+* Current version: 1.7.16.1
+* Based on and tested with webtrees 1.7.16, may also work with older 1.7.x versions. Cannot be used with webtrees 2.x.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart). 
 * Requires the 'vesta_common_lib' module.
 * Displays data via the 'families_with_hooks' module. 
 * Displays data via the 'personal_facts_with_hooks' module. 
 * Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>. See also [this webtrees forum thread](https://www.webtrees.net/index.php/en/forum/4-customising/31587-extended-relationships-module-feature-requests).
-* Issues also via <https://github.com/ric2016/extended_relationships/issues>. Note that new features will only be implemented in the 2.x versions though.
+* Issues also via <https://github.com/ric2016/extended_relationships/issues>
 
 ### Installation<a name="installation"/>
 
@@ -60,7 +60,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 ### License<a name="license"/>
 
 * **extended_relationships: a webtrees custom module**
-* Copyright (C) 2016 to 2019 Richard Cissée
+* Copyright (C) 2016 to 2020 Richard Cissée
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 * French translations provided by Michel Rivière.
