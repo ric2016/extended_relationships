@@ -43,7 +43,7 @@ See the <a href="./webtrees">[Müller Family tree](https://cissee.de/webtrees).
 * Requires the 'vesta_common_lib' module.
 * Displays data via the 'families_with_hooks' module. 
 * Displays data via the 'personal_facts_with_hooks' module. 
-* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
+* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.legacy.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>. See also [this webtrees forum thread](https://www.webtrees.net/index.php/en/forum/4-customising/31587-extended-relationships-module-feature-requests).
 * Issues also via <https://github.com/ric2016/extended_relationships/issues>
 
